@@ -1,0 +1,12 @@
+{
+    "country": "United States",
+    "places": [{
+        "latitude": "25.9286",
+        "state": "Florida",
+        "state abbreviation": "FL",
+        "place name": "Miami",
+        "longitude": "-80.183"
+    }],
+    "country abbreviation": "US",
+    "post code": "33162"
+}
